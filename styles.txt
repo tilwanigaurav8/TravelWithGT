@@ -1,0 +1,35 @@
+#container{
+    
+    padding:10px;
+    width:800px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: space-between;
+}
+
+p{
+    background-color: rgb(211,88,209);
+    margin:10px;
+    width:800px;
+}
+
+ul{
+    background-color: rgb(250,146,63);
+    padding:0px;
+    width:250px;
+    list-style: none;
+    margin:10px;
+    display: flex;
+    justify-content: flex-end;
+    text-align: right;
+}
+
+li{
+
+
+background-color: rgb(238,212,192);
+width:100px;
+
+}
